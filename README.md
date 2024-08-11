@@ -1,2 +1,2 @@
-# gedis
-Redis clone implemented in Go.
+# kvdb
+Key-Value database (Redis clone) implemented in Go.
